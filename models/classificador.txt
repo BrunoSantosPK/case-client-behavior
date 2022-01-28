@@ -1,0 +1,8 @@
+Modelo de classificação salvo em 2022-01-27T21:07:59.561003.
+Encontrada acurácia de 0.71
+Total de falsos positivos de 0.08
+Campos utilizados:
+> encoder_escolaridade
+> encoder_estado_civil
+> encoder_nascimento
+> encoder_renda
